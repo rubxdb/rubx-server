@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    postgres-pr (0.6.3)
+    sequel (4.18.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  postgres-pr
+  sequel
