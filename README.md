@@ -1,5 +1,7 @@
 # Rubx Server
 
+[![Build Status](https://travis-ci.org/rubxdb/rubx-server.svg)](https://travis-ci.org/rubxdb/rubx-server)
+
 Server for Rubx written in Maglev.
 
 ## Installation
