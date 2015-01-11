@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+# General
+gem 'rake'
+
 # DB
 gem 'sequel'
 gem 'postgres-pr'
